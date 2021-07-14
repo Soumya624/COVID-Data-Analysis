@@ -1,0 +1,195 @@
+﻿Name,Age,Location,Leads searched,Helpful,Co-morbities,Date,Time
+  Rita Das,67,  Barasat,  Ambulance & Food Delivery,  Yes,Oxygen low,   2021/05/12,   09:37:09pm
+  HIRANMOY PAL,25,  Bolpur,  Ambulance & Food Delivery,  Yes,,   2021/05/13,   03:00:44pm
+  Prasanta Ghosh,60,  Bansdroni,  Ambulance & Food Delivery,  Yes,Kidney disease,   2021/05/14,   10:39:17am
+  Peter ,26,  Entally ,  Ambulance & Food Delivery,  Yes,,   2021/05/14,   01:47:55pm
+Rik ,17,Golpark,  Ambulance & Food Delivery,  Yes,,14-05-2021,10:57:07pm
+Sujay Das,42,Ultadanga,  Ambulance & Food Delivery,  Yes,,14-05-2021,11:13:27pm
+Sundar Chanda,59,Haldia,  Ambulance & Food Delivery,  Yes,Cerebral,15-05-2021,12:13:28am
+Hridraj Biswas,37,Lake Town,  Ambulance & Food Delivery,  Yes,Hypertension-cholesterol,15-05-2021,12:58:40am
+Somdeep Basu,25,Kudghat,  Ambulance & Food Delivery,  Yes,Migraine,15-05-2021,01:15:45am
+  Sreeparna Marik,29,  Sealdah,  Ambulance & Food Delivery,  Yes,HIGHB BP,15-05-2021,   01:06:43am
+  Raktim,25,  Behala,  Ambulance & Food Delivery,  Yes,Hypertension-migraine,15-05-2021,   06:32:06pm
+  Shweta,30,  Garia,  Hospitals,  Yes,High BP-low o2,   2021/05/12,   08:58:43pm
+  Debashis Das,52,  Baruipur,  Hospitals,  Yes,Diabetes-heart disease,   2021/05/12,   09:16:57pm
+  SUPRATIM SHEE,23,  Bally,  Hospitals,  Yes,Allergy,   2021/05/13,   12:37:33am
+  BISWAJIT  SINHA,35,  SONARPUR,  Hospitals,  Yes,Low Oxygen,   2021/05/13,   11:47:43am
+  Soumyajit Dey,30,  New barrackpore,  Hospitals,  Yes,,   2021/05/13,   11:50:40am
+  Swarup Sarkar,23,  Sodepur,  Hospitals,  Yes,Low O2,   2021/05/13,   12:34:42pm
+  Soumak Ghosh,30,  Salt Lake,  Hospitals,  Yes,Depression-Anxiety,   2021/05/13,   12:40:44pm
+  Dibyendu Ghosh,20,  Birbhum,  Hospitals,  Yes,,   2021/05/13,   01:05:01pm
+  Asit bhowmik,31,  Raiganj,  Hospitals,  Yes,,   2021/05/13,   02:19:13pm
+  Shilpa Mondal,32,  Amtala,  Hospitals,  Yes,Allergic,   2021/05/13,   02:59:23pm
+  Pratin Banerjee,30,  Midnapore,  Hospitals,  Yes,,   2021/05/13,   03:38:31pm
+  Dibakar,34,  Taraknagar,  Hospitals,  Yes,,   2021/05/13,   03:55:04pm
+  Dibakar,34,  Taraknagar,  Hospitals,  Yes,Coronary Artery Disease,   2021/05/13,   04:09:42pm
+  Tarak,32,  Kulpi,  Hospitals,  Yes,Appendicitis,   2021/05/13,   04:32:22pm
+  Koushik Das,52,  Jodhpur Park,  Hospitals,  Yes,Hyperlipidemia,   2021/05/13,   08:52:57pm
+  Bhaskar Mukherjee,36,  beleghata,  Hospitals,  Yes,,   2021/05/13,   08:55:15pm
+  Arjun Bhattacharya,32,  Sodepur,  Hospitals,  Yes,,   2021/05/14,   12:08:14am
+  Samaran,30,  Garia,  Hospitals,  Yes,Low O2,   2021/05/14,   02:05:36pm
+  Ashim ,26,  Purba Medinapur ,  Hospitals,  Yes,Low O2,   2021/05/14,   10:06:23pm
+  Ranja ,39,  Howrah,  Hospitals,  Yes,,   2021/05/14,   10:19:21pm
+Asim Manna,57,Kudghat,  Hospitals,  Yes,Kidney disease,14-05-2021,10:46:39pm
+Sohom Ranjan,22,Tollygunge,  Hospitals,  Yes,,14-05-2021,10:57:37pm
+Som Banaerjee,30,Kankurgachi,  Hospitals,  Yes,Chronic kidney disease,14-05-2021,10:58:53pm
+Sukhdev,40,Patuli,  Hospitals,  Yes,Low BP,14-05-2021,11:01:46pm
+Jibon Saha,70,Lake Town,  Hospitals,  Yes,Dementia,14-05-2021,11:07:26pm
+Sujay Das,42,Ultadanga,  Hospitals,  Yes,Pharyngitis,14-05-2021,11:13:26pm
+Prasit Kumar,35,Chetla,  Hospitals,  Yes,,14-05-2021,11:17:58pm
+Kanya Das,56,Barasat,  Hospitals,  Yes,Cancer,14-05-2021,11:18:58pm
+Satyaki Boral,21,Shyambazar,  Hospitals,  Yes,,14-05-2021,11:24:52pm
+Binita Sankaran,65,Lake Town,  Hospitals,  Yes,Cancer,15-05-2021,12:31:14am
+Bani Shankar,57,Mumbai,  Hospitals,  Yes,Pharyngitis-sinus,15-05-2021,12:36:10am
+Bina Baroi,73,Amherst Street,  Hospitals,  Yes,Diabetes,15-05-2021,12:47:02am
+Sangeeta Shaw,55,CIT Road,  Hospitals,  Yes,Varicose,15-05-2021,12:47:10am
+Debadrita Kundu,27,Tollygunge,  Hospitals,  Yes,Hypertension,15-05-2021,12:47:15am
+Srijonee Basu,30,Salt Lake,  Hospitals,  Yes,Asthma,15-05-2021,12:48:18am
+Debanjali Mitra,54,Jhamapukur,  Hospitals,  Yes,Kidney disease,15-05-2021,12:49:46am
+Joy Saha,44,Lake Town,  Hospitals,  Yes,Obesity,15-05-2021,12:50:33am
+Nivriti Puri,32,Salt Lake,  Hospitals,  Yes,,15-05-2021,12:59:28am
+Priyadarshini Jaiswal,47,Manicktala,  Hospitals,  Yes,Sugar-pressure,15-05-2021,01:01:27am
+Raunaq Anand,57,Baghajatin,  Hospitals,  Yes,Cerebral-hypertension ,15-05-2021,01:09:35am
+Oishi Banerjee,49,Salt Lake,  Hospitals,  Yes,Low Oxygen,15-05-2021,01:16:50am
+ILA CHOUDHURY,60,Rajgir,  Hospitals,  Yes,Cancer,15-05-2021,01:17:41am
+Jay JAISWAL,40,Kestopur,  Hospitals,  Yes,Arthritis,15-05-2021,01:24:47am
+  Bidyut Sarkar,16,  Basirhat,  Hospitals,  Yes,Cough,15-05-2021,   09:13:42pm
+  Dinesh,40,  Salt Lake,  Hospitals,  Yes,Diabetes,15-05-2021,   04:46:11pm
+  Anupom Ray,48,  Jadavpur,  Oxygen,  Yes,Low pressure,   2021/05/12,   09:17:49pm
+  Biprajit podder,22,  Krishnagar,  Oxygen,  Yes,Pharyngitis,   2021/05/12,   09:25:53pm
+  Kaushik Saha,39,Dumdum,  Oxygen,  Yes,Gastrointestinal,   2021/05/12,   09:31:58pm
+  Sariut,26,  Peardanga,  Oxygen,  Yes,Low O2,   2021/05/12,   09:59:40pm
+  Surajit Mitra,36,  Uttarpara ,  Oxygen,  Yes,Low O2,   2021/05/12,   10:57:17pm
+  Krishna banerjee,37,  Nabanna 409 sarat chatterjee roed savantara aperment. ,  Oxygen,  Yes,Low O2,   2021/05/13,   12:43:06am
+  Suman Banik,  30+,  Belghoria ,  Oxygen,  Yes,Low O2,   2021/05/13,   12:52:02am
+  Paramita,35,  Salt Lake,  Oxygen,  Yes,Metabollic Syndrome,   2021/05/13,   01:13:40am
+  Sujay Kr Sarkar,52,  NSCBI Airport,  Oxygen,  Yes,Low OXYGEN,   2021/05/13,   01:34:09am
+  Avijeet Halder,36,  C. I. T. Road,  Oxygen,  Yes,,   2021/05/13,   07:52:39am
+  ASIF HOSSAIN,33,  Baruipur,  Oxygen,  Yes,,   2021/05/13,   02:09:03pm
+  Pinaki Chattopadhyay ,52,  Garia bus stand,  Oxygen,  Yes,Diabetes,   2021/05/13,   02:09:58pm
+  ARGHYA BANERJEE,51,  behala,  Oxygen,  Yes,Kidney disease,   2021/05/13,   02:18:31pm
+  siddhartha Bandyopadhyay,35,  Howrah,  Oxygen,  Yes,,   2021/05/13,   02:51:12pm
+  Sanjib sharma,30,  Tangra,  Oxygen,  Yes,Low Oxygen,   2021/05/13,   02:54:39pm
+  SUBHADEEP,30,  HALISAHAR,  Oxygen,  Yes,Low O2,   2021/05/13,   03:01:36pm
+  Indranil Bhattacharyya,46,  Naktala,  Oxygen,  Yes,Low O2,   2021/05/13,   04:03:18pm
+  Indrajit,28,  Dum Dum,  Oxygen,  Yes,Low Oxygen,   2021/05/13,   04:19:10pm
+  Indrajit,28,  Dum Dum,  Oxygen,  Yes,Low O2,   2021/05/13,   04:19:58pm
+  Indrajit,28,  Dum Dum,  Oxygen,  Yes,Low O2,   2021/05/13,   04:20:03pm
+  Priyanka Pramanik,31,  Barasat ,  Oxygen,  Yes,Low Oxygen,   2021/05/13,   04:27:17pm
+  Tarak,32,  Diamond harbour,  Oxygen,  Yes,Diabetes,   2021/05/13,   04:34:50pm
+  Sribas Das,23,  Uttarpara,  Oxygen,  Yes,,   2021/05/13,   05:13:08pm
+  Raj Ronie Das,30,  Picnic garden,  Oxygen,  Yes,,   2021/05/13,   05:17:33pm
+  SHILPIKA SANTRA ,18,  Garia,  Oxygen,  Yes,Low Oxygen,   2021/05/13,   05:17:34pm
+  Sourav mondal,26,  Kandi West Bengal,  Oxygen,  Yes,,   2021/05/13,   05:34:37pm
+  Sabir Hossain,30,  Canning,  Oxygen,  Yes,,   2021/05/13,   05:58:36pm
+  Imran,30,  Amtala,  Oxygen,  Yes,Low Oxygen,   2021/05/13,   06:16:33pm
+  Manas Sarkar,20,  Mejia,  Oxygen,  Yes,,   2021/05/13,   07:28:47pm
+  Shymal kumar dey,55,  Garfa GuYesmoni Safui road,  Oxygen,  Yes,Diabetes,   2021/05/13,   07:33:31pm
+  sayar datta,42,  Salt Lake,  Oxygen,  Yes,Low O2,   2021/05/13,   07:57:32pm
+  Arijit Sarkar,36,  Halisahar,  Oxygen,  Yes,,   2021/05/13,   08:00:34pm
+  Archi Mohan sikdar,57,  Kudghat,  Oxygen,  Yes,Cancer,   2021/05/13,   08:56:56pm
+  Amit achar,22,  Salt Lake,  Oxygen,  Yes,Low O2,   2021/05/13,   10:26:59pm
+  Amit achar,22,  Salt Lake,  Oxygen,  Yes,Low O2,   2021/05/13,   10:33:07pm
+  Saikat Kar,23,  Baguihati,  Oxygen,  Yes,Pharyngitis,   2021/05/13,   11:02:46pm
+  Sudipta Ghosh,47,  Salt Lake,  Oxygen,  Yes,Diabetes,   2021/05/13,   11:48:37pm
+  Subhajit Mondal,23,  Durgapur,  Oxygen,  Yes,Low Oxygen,   2021/05/14,   12:18:29am
+  Riju Mazumder,25,  Ichapur,  Oxygen,  Yes,,   2021/05/14,   01:42:33am
+  Nilanjan Mondal,25,  mahestala budge budge bawali ,  Oxygen,  Yes,,   2021/05/14,   11:36:38am
+  Ashim sikdar ,35,  Rajarhat  newton ,  Oxygen,  Yes,Atrial fibrillation,   2021/05/14,   12:08:22pm
+  Ashim sikdar ,35,  Rajarhat  newton ,  Oxygen,  Yes,Atrial fibrillation,   2021/05/14,   12:09:35pm
+  RUPANKAR BARUA,21,  Salt Lake,  Oxygen,  Yes,,   2021/05/14,   03:55:13pm
+  Biswanath Barui,45,  BISHNUPUR,  Oxygen,  Yes,Cholesterol-sugar,   2021/05/14,   06:03:32pm
+  Biswanath Barui,45,  BISHNUPUR,  Oxygen,  Yes,Cholesterol-sugar,   2021/05/14,   06:04:23pm
+  Biswanath Barui,45,  BISHNUPUR,  Oxygen,  Yes,Cholesterol-sugar,   2021/05/14,   06:04:37pm
+  Mustafa Ahammed ,42,  Hooghly ,  Oxygen,  Yes,,   2021/05/14,   07:21:37pm
+Sourav Ghosh,44,Lake Gardens,  Oxygen,  Yes,,14-05-2021,10:45:57pm
+Parvez,24,Rajabazar,  Oxygen,  Yes,,14-05-2021,10:47:33pm
+Amarendra Dutt,56,Lake Town,  Oxygen,  Yes,Low Oxygen,14-05-2021,10:48:25pm
+Amarendra Dutt,56,Lake Town,  Oxygen,  Yes,Low Oxygen,14-05-2021,10:48:32pm
+Amarendra Dutt,56,Lake Town,  Oxygen,  Yes,Low Oxygen,14-05-2021,10:55:36pm
+Manoj Shaw,45,Entally,  Oxygen,  Yes,Low BP-heart disease,14-05-2021,10:55:39pm
+Srinath Shaw,40 up,Entally,  Oxygen,  Yes,Low BP,14-05-2021,10:56:09pm
+Srinath Shaw,40 up,Entally,  Oxygen,  Yes,Low BP,14-05-2021,10:56:35pm
+Disha Ghatak,21,Salt Lake,  Oxygen,  Yes,Low O2,14-05-2021,10:56:51pm
+Disha Ghatak,21,Salt Lake,  Oxygen,  Yes,Renal disease,14-05-2021,10:56:59pm
+Rishabh Nandi,27,Tollygunge,  Oxygen,  Yes,Anxiety,14-05-2021,10:57:08pm
+Devyani,32,Salt Lake,  Oxygen,  Yes,Low BP-anaemic,14-05-2021,10:57:11pm
+GOPAL DAS,50,Jadavpur,  Oxygen,  Yes,Gastrointestinal,14-05-2021,10:58:03pm
+Soumik Purakyasta,26,Mahestala,  Oxygen,  Yes,Low Oxygen,14-05-2021,10:58:10pm
+Binod Kumar,61,CIT road,  Oxygen,  Yes,Kidney disease,14-05-2021,11:00:27pm
+Vishal Kaur,31,Manicktala,  Oxygen,  Yes,Cancer,14-05-2021,11:00:53pm
+Vishal Kaur,31,Manicktala,  Oxygen,  Yes,Low BP,14-05-2021,11:00:57pm
+Abhishek Gupta,22,Howrah,  Oxygen,  Yes,Low Oxygen,14-05-2021,11:01:47pm
+Nandita Ghosh,44,Lords,  Oxygen,  Yes,Cerebral,14-05-2021,11:02:21pm
+RUNA ,38,Pikepara,  Oxygen,  Yes,Low O2,14-05-2021,11:03:06pm
+Sreyoshi,21,Ballygunge,  Oxygen,  Yes,Appendicitis,14-05-2021,11:09:12pm
+JOYITA,55,Hoogly,  Oxygen,  Yes,Diabetes,14-05-2021,11:11:38pm
+Pankaj Kumar Roy,58,Baruipur,  Oxygen,  Yes,Diabetes-COPD lungs,14-05-2021,11:16:30pm
+Pousali Banerjee,26,Konnagar,  Oxygen,  Yes,Low BP,14-05-2021,11:19:00pm
+Ashapurna Banerjee,54,Behala,  Oxygen,  Yes,Low Oxygen,14-05-2021,11:27:07pm
+Kamal Ray,63,Jadavpur,  Oxygen,  Yes,Low BP,14-05-2021,11:41:23pm
+Sagnik Roy,34,Chaltabagan,  Oxygen,  Yes,Low BP,14-05-2021,11:41:43pm
+Supriyo Dawn,23,Medinipur,  Oxygen,  Yes,,14-05-2021,11:41:46pm
+Abhik Kumar Sen,37,Salt Lake,  Oxygen,  Yes,Low O2,14-05-2021,11:42:09pm
+Arinjoy Das,42,Wellington,  Oxygen,  Yes,,14-05-2021,11:42:10pm
+Arghyadip Nandy,49,Madhyamgram,  Oxygen,  Yes,Diabetes,14-05-2021,11:44:21pm
+Bidushi Biswas,58,Park Circus,  Oxygen,  Yes,Liver cirrohsis,14-05-2021,11:44:40pm
+Anoushka Roy,34,Gariahat,  Oxygen,  Yes,,14-05-2021,11:45:00pm
+Mili Dey,49,Jadavpur,  Oxygen,  Yes,Hypertension-Sinutisis,14-05-2021,11:45:46pm
+Raja Bandhopadhyay,41,Moulali,  Oxygen,  Yes,Low BP,14-05-2021,11:46:15pm
+Pinky Das,68,Burdhwan,  Oxygen,  Yes,Low O2,14-05-2021,11:52:41pm
+Vikramjit Ray,42,Durgapur,  Oxygen,  Yes,Low BP,15-05-2021,12:18:25am
+Natasha Prasad,19,Baguihati,  Oxygen,  Yes,,15-05-2021,12:26:59am
+Shamita Puri,40,Salt Lake,  Oxygen,  Yes,,15-05-2021,12:28:35am
+Komol Datta,29,Patuli,  Oxygen,  Yes,Low BP,15-05-2021,01:17:38am
+ILA CHOUDHURY,60,Rajgir,  Oxygen,  Yes,Cancer,15-05-2021,01:18:35am
+Sinjini Pal,35,GolfGreen,  Oxygen,  Yes,Diabetes,15-05-2021,01:19:57am
+Rajdeep Saha,58,Girish Park,  Oxygen,  Yes,Low O2,15-05-2021,01:20:15am
+Samrat Saha,34,Karunamoyee,  Oxygen,  Yes,Low Oxygen,15-05-2021,01:27:52am
+Vishal Kaur,22,Janbazar,  Oxygen,  Yes,Hypertension,15-05-2021,01:30:14am
+Asish Mallik,59,Dharamtala,  Oxygen,  Yes,Diabetes,15-05-2021,01:32:51am
+ Badal De,22,  Haldia,  Oxygen,  Yes,Low O2,15-05-2021,   11:24:32am
+  Pawan Jha,34,  Dumdum,  Oxygen,  Yes,Hypertension-High BP,15-05-2021,   12:55:50pm
+  Arka Bhattacharjee,21,  Burdwan,  Oxygen,  Yes,Migraine-low O2,15-05-2021,   11:44:22am
+  Srimon Dhar,23,  Hooghly,  Plasma & Blood,  Yes,Low Haemoglobin ,   2021/05/13,   03:13:55pm
+Mahua Hom Chowdhury,37,Tollygunge,  Plasma & Blood,  Yes,,14-05-2021,11:17:46pm
+  Tapas Kumar Saha,50,  Belur,  Telephone Consultation,  Yes,Kidney disease,   2021/05/12,   09:27:37pm
+  DEBAJYOTI DHAR,66,700110,  Telephone Consultation,  Yes,Diabetes-cancer,   2021/05/13,   01:10:57am
+  RAJ KUMAR DHARA,37,  Hooghly,  Telephone Consultation,  Yes,Allergy,   2021/05/13,   12:20:59pm
+  AMIT KUMAR DUTTA,27,  burdwan,  Telephone Consultation,  Yes,Depression,   2021/05/13,   02:51:44pm
+  ASIM KUMAR JANA,35,  Nandigram,  Telephone Consultation,  Yes,throat swell,   2021/05/13,   03:46:55pm
+  fd,  fd,  dfd,  Telephone Consultation,  Yes,,   2021/05/13,   11:55:31pm
+  Asok Ghosh,63,  Nairobi,  Telephone Consultation,  Yes,Atherosclerosis,   2021/05/14,   09:54:35am
+  Rupesh Santra,21,  Jirat,  Telephone Consultation,  Yes,Low Oxygen,   2021/05/14,   01:30:29pm
+  Sunil Kumar som,64,  Howrah,  Telephone Consultation,  Yes,COPD lungs,   2021/05/14,   05:46:40pm
+  Babul,40,  Mirhat,  Telephone Consultation,  Yes,,   2021/05/14,   05:55:52pm
+Som Banaerjee,30,Kankurgachi,  Telephone Consultation,  Yes,Chronic kidney disease,14-05-2021,10:58:38pm
+Pratim Datta,48,Phoolbagan,  Telephone Consultation,  Yes,Arthritis,14-05-2021,11:02:02pm
+Asim Manna,35,AJC Bose Road,  Telephone Consultation,  Yes,Kidney disease,14-05-2021,11:03:59pm
+Priyamm,28,Rajarhat Newtown,  Telephone Consultation,  Yes,Depression-Anxiety,14-05-2021,11:15:00pm
+Varun Thakur,17,Ranchi,  Telephone Consultation,  Yes,Depression,14-05-2021,11:18:00pm
+Deboleena Biswas,33,Kaikhali,  Telephone Consultation,  Yes,,14-05-2021,11:51:46pm
+Nandini Das,67,Madhyamgram,  Telephone Consultation,  Yes,Diabetes,15-05-2021,12:45:40am
+Souvik Dutta,38,Belghoria,  Telephone Consultation,  Yes,,15-05-2021,01:15:26am
+Pradaipta Sinha,18,Tangra,  Telephone Consultation,  Yes,Appendicitis,15-05-2021,01:28:16am
+  ASOK GHOSH,63,  NAIROBI,  Telephone Consultation,  Yes,Atherosclerosis,15-05-2021,   10:32:25am
+  Jharna Dev,  70 yrs,  Garia Station Road,  Telephone Consultation,  Yes,Heart-dementia,15-05-2021,   09:26:47pm
+  Jharna Dev,  70 yrs,  Garia Station Road,  Telephone Consultation,  Yes,Heart-dementia,15-05-2021,   09:26:48pm
+  SOURAV SARKAR,23,  Baghajatin,  Testing Agencies,  Yes,LOW OXYGEN,   2021/05/12,   09:19:29pm
+  Tarun ,31,  Burdwan,  Testing Agencies,  Yes,Low O2,   2021/05/12,   09:31:20pm
+  Mriganka,48,  Gangulybagan ,  Testing Agencies,  Yes,Pharyngitis,   2021/05/13,   12:16:35am
+  ABCD,22,  Uttarpara,  Testing Agencies,  Yes,Sinus,   2021/05/13,   01:23:00am
+  Hariprasadghosh ,31,  Uluberia ,  Testing Agencies,  Yes,,   2021/05/13,   11:57:01am
+  Biman,36,  Bahrain ,  Testing Agencies,  Yes,Diabetes,   2021/05/13,   12:41:12pm
+  Subhadeep Banerjee,24,  Garia,  Testing Agencies,  Yes,Pharyngitis,   2021/05/13,   12:42:47pm
+  Tarak,32,  Salt Lake,  Testing Agencies,  Yes,O2 drop,   2021/05/13,   04:36:25pm
+  Avijit Chakraborty,47,  sodepur 24 parganas,  Testing Agencies,  Yes,Kidney disease,   2021/05/13,   10:44:38pm
+Anik Pal,36,Rajarhat,  Testing Agencies,  Yes,Sinusitis,14-05-2021,10:47:52pm
+Ratnesh Thakur,54,Garia,  Testing Agencies,  Yes,Pharyngitis,14-05-2021,10:57:14pm
+Sujay Das,42,Ultadanga,  Testing Agencies,  Yes,Pharyngitis,14-05-2021,11:11:49pm
+Aishwarya Ghosh,65,Kasba,  Testing Agencies,  Yes,Leukeamia,14-05-2021,11:46:01pm
+Aritra Choudhury,36,Patuli,  Testing Agencies,  Yes,Low Oxygen,14-05-2021,11:52:36pm
+Debdeep Chakraborty,31,Sodepur,  Testing Agencies,  Yes,Appendicitis-heart disease,15-05-2021,12:21:09am
+Krishna Ghosh,64,Chinsurah,  Testing Agencies,  Yes,Tumor,15-05-2021,12:36:35am
+  Suvendu Kumar Metya,38,  Tamluk,  Testing Agencies,  Yes,Liver damage,15-05-2021,   12:16:19pm
+  Arun Kumar Parasrampuria ,67,  Dalimtolla ,  Testing Agencies,  Yes,Glaucoma,15-05-2021,   01:23:04pm
